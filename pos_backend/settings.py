@@ -149,9 +149,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOW_ALL_ORIGINS = True
           
 cloudinary.config( 
-  cloud_name = "dcpqcouzc", 
-  api_key = "845263549815739", 
-  api_secret = "ikEgQsFJ4fOZvy7fVKleb8EXG_8" 
+  cloud_name = "du5mh2ho1", 
+  api_key = "949494631215367", 
+  api_secret = "PCX9NmunA_eF-iTHUdxs_JD74gU" 
 )
 
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
